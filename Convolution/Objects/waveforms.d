@@ -1,0 +1,9 @@
+.\objects\waveforms.o: waveforms.c
+.\objects\waveforms.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\DSP\Include\arm_math.h
+.\objects\waveforms.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm4.h
+.\objects\waveforms.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\waveforms.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\waveforms.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\waveforms.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\waveforms.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\waveforms.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
